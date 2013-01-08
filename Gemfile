@@ -18,5 +18,5 @@ end
 gem 'jquery-rails', '2.0.2'
 gem 'execjs'
 gem 'therubyracer' 
-gem 'less-rails-bootstrap', '~> 2.0'
+gem 'bootstrap-sass', '2.1'
 
